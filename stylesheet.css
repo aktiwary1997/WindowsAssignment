@@ -1,0 +1,111 @@
+#main {
+    background-color: black;
+}
+
+h1 {
+    background-color: yellow;
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    border-radius: 20px;
+}
+
+#div1 {
+    border-radius: 10px;
+}
+
+.para1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img1 {
+    float: left;
+    width: 320px;
+    height: 350px;
+    margin-top: 90px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+
+#div2 {
+    background-color: mediumslateblue;
+    margin-top: 170px;
+    border-radius: 10px;
+}
+
+.innerpara {
+    color: darkred;
+    font-size: 18px;
+    font-family: "Comic Sans Ms";
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: navy;
+}
+
+#name {
+    margin-top: 250px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: "Comic Sans Ms";
+    color: black;
+    font-size: 20px;
+}
+
+.box1 {
+    border-radius: 40px;
+    border: 1px solid black;
+    padding: 15px;
+    overflow-x: auto;
+    background-color: lightslategrey;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.box2 {
+    border-radius: 40px;
+    border: 1px solid black;
+    overflow-x: auto;
+    background-color: lightslategrey;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#main3 {
+    background-color: seagreen;
+}
+
+.heading2 {
+    background-color: lightslategrey;
+    font-size: 35px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.para3 {
+    font-size: 20px;
+}
+
+.selector {
+    padding: 20px;
+}
+
+#bottom-style {
+    text-align: center;
+    padding: 20px;
+}
+
+.mydiv {
+    background-color: lightslategrey;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
